@@ -1,0 +1,7 @@
+E:\322Labs\ConsoleHello\ConsoleHello\bin\Debug\ConsoleHello.exe.config
+E:\322Labs\ConsoleHello\ConsoleHello\bin\Debug\ConsoleHello.exe
+E:\322Labs\ConsoleHello\ConsoleHello\bin\Debug\ConsoleHello.pdb
+E:\322Labs\ConsoleHello\ConsoleHello\obj\Debug\ConsoleHello.csprojAssemblyReference.cache
+E:\322Labs\ConsoleHello\ConsoleHello\obj\Debug\ConsoleHello.csproj.CoreCompileInputs.cache
+E:\322Labs\ConsoleHello\ConsoleHello\obj\Debug\ConsoleHello.exe
+E:\322Labs\ConsoleHello\ConsoleHello\obj\Debug\ConsoleHello.pdb
